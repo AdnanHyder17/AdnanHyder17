@@ -1,15 +1,11 @@
 <h1 align="center">
-  <img src="github_banner.png" alt="Adnan Hyder - AI/ML Developer" width="85%" />
+  <img src="github_banner.png" alt="Adnan Hyder - AI/ML Developer" width="100%" />
 </h1>
 
 <h3 align="center">A passionate AI/ML Developer</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adnanhyder17&label=Profile%20views&color=0e75b6&style=flat" alt="adnanhyder17" />
-</div>
-
-<div align="right">
-  <img align="right" alt="Coding" width="400" src="purple_coding.gif">
 </div>
 
 ## 💫 About Me
@@ -19,6 +15,10 @@
 - ⚡ Fun fact: **I can't ride a bike (yet!) but I plan to learn this year**
 
 ## 🚀 Tech Stack
+
+<div align="right">
+  <img align="right" alt="Coding" width="400" src="purple_coding.gif">
+</div>
 
 ### AI & Machine Learning
 <p>
