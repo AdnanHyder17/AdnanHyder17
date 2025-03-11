@@ -64,8 +64,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45" style="margin-right: 10px;"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer" title="Laravel">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="45" height="45" style="margin-right: 10px;"/>
-  </a>
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="45" height="45" style="margin-right: 10px;"/>
+</a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45" style="margin-right: 10px;"/>
   </a>
