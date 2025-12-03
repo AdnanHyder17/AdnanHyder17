@@ -9,7 +9,7 @@
 </div>
 
 ## 💫 About Me
-- 🔭 I'm currently working on [CureAI](https://github.com/AdnanHyder17/CureAI-FYP)
+- 🔭 Final Year Project: [CureAI](https://github.com/AdnanHyder17/CureAI-FYP)
 - 🌱 I'm currently learning **to Build Intelligent Models more Efficiently**
 - 📫 How to reach me: **adnanhyder17@gmail.com**
 - ⚡ Fun fact: **I can't ride a bike (yet!) but I plan to learn this year**
