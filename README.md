@@ -137,4 +137,7 @@
   <a href="https://www.hackerrank.com/profile/adnanhyder17" target="blank" title="HackerRank">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="adnanhyder17" height="30" width="40" style="margin-right: 10px;"/>
   </a>
+  <a href="mailto:adnanhyder17@gmail.com" target="blank" title="Email">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="adnanhyder17@gmail.com" height="30" width="40" style="margin-right: 10px;"/>
+  </a>
 </p>
