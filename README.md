@@ -128,7 +128,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/adnan-hyder-aa2479234" target="blank" title="LinkedIn">
+  <a href="www.linkedin.com/in/adnanhyder17" target="blank" title="LinkedIn">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adnan-hyder" height="30" width="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.leetcode.com/adnanhaider17" target="blank" title="LeetCode">
