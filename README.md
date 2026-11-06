@@ -134,7 +134,7 @@
   <a href="https://www.leetcode.com/adnanhaider17" target="blank" title="LeetCode">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adnanhaider17" height="30" width="40" style="margin-right: 10px;"/>
   </a>
-  <a href="https://www.hackerearth.com/@adnanhyder17" target="blank" title="HackerEarth">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@adnanhyder17" height="30" width="40" style="margin-right: 10px;"/>
+  <a href="https://www.hackerrank.com/profile/adnanhyder17" target="blank" title="HackerRank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="adnanhyder17" height="30" width="40" style="margin-right: 10px;"/>
   </a>
 </p>
