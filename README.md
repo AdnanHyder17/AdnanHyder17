@@ -137,7 +137,10 @@
   <a href="https://www.hackerrank.com/profile/adnanhyder17" target="_blank" title="HackerRank">
     <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
   </a>
-  <a href="mailto:adnanhyder17@gmail.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adnanhyder17@gmail.com" target="_blank" title="Email Me">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+       alt="Email"
+       height="30"
+       width="40"/>
   </a>
 </p>
