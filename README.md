@@ -166,11 +166,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adnanhyder17&show_icons=true&locale=en&layout=compact&theme=radical" alt="adnanhyder17" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanhyder17&theme=radical" alt="adnanhyder17" />
+  <img src="https://streak-stats.demolab.com/?user=adnanhyder17&theme=radical" alt="GitHub streak" />
 </p>
 
 
