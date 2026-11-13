@@ -166,7 +166,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=adnanhyder17&theme=solarized-light&hide_current_streak=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=adnanhyder17&theme=solarized-light" alt="GitHub streak" />
 </p>
 
 
