@@ -8,13 +8,13 @@
   <img src="https://komarev.com/ghpvc/?username=adnanhyder17&label=Profile%20views&color=0e75b6&style=flat" alt="adnanhyder17" />
 </div>
 
-## 💫 About Me
+## About Me
 - Final Year Project: [CureAI](https://github.com/AdnanHyder17/CureAI-FYP)
 - I'm currently learning **LLM fine-tuning / Transformer Architecture / MLOps**
 - How to reach me: **adnanhyder17@gmail.com**
 - Fun fact: **I can't ride a bike (yet!) but I plan to learn this year**
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <div align="right">
   <img align="right" alt="Coding" width="400" src="purple_coding.gif">
@@ -163,14 +163,14 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=adnanhyder17&theme=solarized-light&timezone=Asia%2FKarachi&v=4" alt="GitHub streak" />
 </p>
 
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adnanhyder17" target="_blank" title="LinkedIn">
