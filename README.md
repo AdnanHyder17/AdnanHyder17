@@ -9,10 +9,10 @@
 </div>
 
 ## 💫 About Me
-- 🔭 Final Year Project: [CureAI](https://github.com/AdnanHyder17/CureAI-FYP)
-- 🌱 I'm currently learning **LLM fine-tuning / Transformer Architecture / MLOps**
-- 📫 How to reach me: **adnanhyder17@gmail.com**
-- ⚡ Fun fact: **I can't ride a bike (yet!) but I plan to learn this year**
+- Final Year Project: [CureAI](https://github.com/AdnanHyder17/CureAI-FYP)
+- I'm currently learning **LLM fine-tuning / Transformer Architecture / MLOps**
+- How to reach me: **adnanhyder17@gmail.com**
+- Fun fact: **I can't ride a bike (yet!) but I plan to learn this year**
 
 ## 🚀 Tech Stack
 
