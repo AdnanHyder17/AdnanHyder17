@@ -166,9 +166,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=adnanhyder17&theme=solarized-light&v=3" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=adnanhyder17&theme=solarized-light&timezone=Asia%2FKarachi&v=4" alt="GitHub streak" />
 </p>
-
 
 
 ## 📫 Connect With Me
